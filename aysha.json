@@ -1,0 +1,180 @@
+{
+  "basics": {
+    "name": "Aysha",
+    "label": "UI Developer",
+    "summary": "Having 8 years of experience in designing UI Web Applications using MERN (MongoDB, ExpressJS, ReactJS, and NodeJS) and MEAN (MongoDB, ExpressJS, AngularJS, and NodeJS) stack."
+  },
+  "work": [
+    {
+      "name": "AMEX- Palo Alto",
+      "position": "Full Stack Developer",
+      "startDate": "Aug 2021",
+      "endDate": "",
+      "summary": "The American Express Company, also known as Amex, is an American multinational financial services corporation headquartered in Manhattan's Three World Financial Center in New York City, United States. The company is best known for its credit card, charge card, and traveler’s cheque businesses. Amex cards account for approximately 24% of the total dollar volume of credit card transactions in the US.",
+      "Environment":"React.js, Redux, React-Router, ES6, ES7, Lodash, Express.js, Node.js, MongoDB, Mongoose, Redis, Winston, Webpack, Babel, Gerrit, Git, Jenkins, AWS / Google Cloud, HTML5, CSS3, Bootstrap.",
+      "highlights": [
+        "Complete exposure with MERN (MongoDB, Express JS, ReactJS, and NodeJS) full stack programming",
+        "Experience with ReactJS new features like Error boundaries, fragments, and new lifecycle methods.",
+        "Worked with React - props, state, keys, refs, events and fetch API to make calls to the server",
+        "Used Redux for state management. Created reducers with pure functions and actions to dispatch events and store to maintain the state",
+        "Worked with React-Router for routing – Used BrowserRouter for Web and NativeRouter for mobile.",
+        "Worked with Redux tools such as react-redux, react-router-redux, redux-thunk, redux-logger and redux-form",
+        "Used third party react components – react-video, react-typeahead, react-tagsinput, react- datagrid, react-calendar, react-tabs and react-autocomplete.",
+        "Used functional programming – pure functions, immutable objects declarative programming. Used low dash-FP and redux.",
+        "Wrote Express.js and used MongoDB for persistence and Redis for caching.",
+        "Used Mongoose Schema/Model to create a query, update and delete with Express.js controllers.",
+        "Extensively used Promises and EventEmmitter in Node.js to avoid callbacks and more readable code.",
+        "Experience with Grunt to perform minification, compilation and linting and NPM to maintain package dependencies.",
+        "Used ZMQ distributed in-memory Message Queue to connect different Node.js utilities and applications",
+        "Worked with JavaScript (ES5/ES6/ES7) - closures, hoisting, prototypes, block scoping, rest, spread, destructuring, classes, promises, iterators, generators, Async, await, maps and sets.",
+        "Used Babel for transpilation and Webpack for bundling, module injection and dependencies. Used NPM scripts for building definitions.",
+        "Worked in CI/CD process with Git, Gerrit, Jenkins and AWS / Google Cloud."  
+      ]
+    },
+    {
+      "name": "Move Inc.",
+      "position": "React Developer",
+      "startDate": "Dec 2019",
+      "endDate": "July 2021",
+      "summary": "The Move Inc network provides resources and tools for consumers and real estate professionals to help navigate all stages of the home-buying cycle. These tools give consumers access to the most comprehensive selection of existing homes for sale, property records, rentals, mortgage resources, senior housing options, moving resources and more. The Move network has the deepest consumer engagement among all real estate websites - consumers spend more than 700 million minutes per month on Move websites and mobile experiences",
+      "Environment":"ReactJS, ReactHooks, Redux, React-Router, React Native, ES6, ES7, ES8, Express.js, Node.js, MongoDB, Mongoose, Redis, Webpack, Babel, Gerrit, Git, Jenkins, HTML5, CSS3, Jest.",
+      "highlights": [
+        "Complete exposure with MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack with ES6/ES7/ES8.",
+        "Extensively used Functional Programming - Pure functions, Function composition, Immutable data, Currying, Partial Applications and declarative programming Used lodash-fp and redux.",
+        "Extensively used ES6/ES7/ES8 – block scoping, classes, arrow functions, rest and spread, generators, modules, promises, destructuring, Object extensions, template literals, async and await.",
+        "Created reusable components with ReactJS. Used JSX for markup, props and state in the components, life cycle methods, DOM event handling and created forms.",
+        "Used third party react components – react-video, react-captcha, react-tagsinput, react-datagrid, react-calendar, and react-tabs.",
+        "Developed the web application with the newest React features centralized with Hooks.",
+        "Worked with React hooks – useState, useEffect, useRef, useMemo, useContext & useReducer",
+        "Used Redux for state management. Created reducers with pure functions and actions to dispatch events and store to maintain the state.",
+        "Worked with many reduxmiddlewares like redux-thunk, redux-promise-middleware, redux- pouchdb, redux-localstorage and redux-logger.",
+        "Worked with React Native for native apps development and Jest for testing.",
+        "Used React-Router for routing – Used Browser Router for Web and Native Router for mobile.",
+        "Created REST API with Express.js, MongoDBand Node.js. Used modules body-parser, cluster, winston, redis, jwt, passport.js, mongoose.js, lodash, async, socket.io.",
+        "Used MongooseSchema/Model to create CRUD with Express.js controllers.",
+        "Used HTTPS and NGINX web server as a reverse proxy for Node.js application. Used PM2 for deployment.",
+        "Used styled-components for styling React applications.",
+        "Used Babel for transpilation and Webpack for bundling, module injection and dependencies. Used NPM scripts for build definitions."
+      ]
+    },
+    {
+      "name": "Cisco",
+      "position": "UI Developer",
+      "startDate": "Jan 2017 ",
+      "endDate": "Nov 2019",
+      "summary": "Cisco Systems is a networking company in which we are developing a project based on internal employee communication. Which mainly includes cisco modules usage of internal applications. Based on our application, an employee will be able to contact support, raise a remedy ticket and locate other employee’s workplace etc. Conference room booking, scheduling meeting and ordering, downloading Cisco products.",
+      "Environment":"HTML5, CSS3, React.js, Redux, React-Router, ES6, Webpack, Babel, Github, Jenkins.",
+      "highlights": [
+        "Created SPA (Single Page Application) by configuring React-Router. Used BrowserRouter.",
+        "Written JSX to embed raw HTML templates inside JavaScript code and used Babel and Webpack for transpilation.",
+        "Worked with props, state, keys, refs, events, default props and propTypes.",
+        "Worked with the lifecycle of react components including state management, DOM event handling and forms.",
+        "Used Redux for state management using Store, Actions and Reducers. Used pure functions to create reducers and bind action creators to dispatch actions.",
+        "Used Axios for making HTTP calls. Worked with many redux middlewares and third-party react components.",
+        "Used React library to create date picker in the application.",
+        "Good understanding of design patterns – IIFE, Module, Revealing Module, Prototype, Revealing Prototype patterns.",
+        "Worked on Mobile-first responsive web design using Bootstrap 4, Bootstrap 4 Grid System and CSS3 Grid System, used font awesome, SVG sprites, Media Queries, Fluid Layout, Responsive Images and Typography.",
+        "Experience with CSS3 preprocessors such as SASS and used styled-components with ReactJS.",
+        "Used Github for Version Control.",
+        "Worked with Continuous Integration and Deployment using Jenkins."
+      ]
+    },
+    {
+      "name": "Sears",
+      "position": "UI Developer",
+      "url": "https://www.stratumglobal.com",
+      "startDate": "April 2016",
+      "endDate": "Dec 2017",
+      "summary": "Buy Online is an online e-commerce shopping web application developed for this chain that allows online shopping features to its users. Using this website, the customers can login as a guest, view items-their description, price etc., add/remove items to their cart and purchase the item using various payment methods like credit card/debit card/PayPal etc.",
+      "Environment":"HTML5, CSS3, AngularJS, NodeJS, ExpressJS, MongoDB, React-Router, ES6, Webpack, Babel, Github, Jenkins.",     
+      "highlights": [
+        "Complete exposure with MEAN (MongoDB, Express JS, AngularJS, NodeJS) full-stack programming.",
+        "Developed Single Page Applications (SPA) using UI-router, Services, Controllers, Views and Directives",
+        "Wrote Express.js and used MongoDB for persistence and Redis for caching.",
+        "Used Mongoose Schema/Model to create a query, update and delete with Express.js controllers.",
+        "Extensively used Promises and Event Emitter in Node.js to avoid callbacks and more readable code.",
+        "Developed AngularJS services which call Rest API’s using $http and JSON parse.",
+        "Used SAAS pre-processor to create importable and reusable style sheets.",
+        "Used Bootstrap CSS Grid System to create responsive layouts, navigation and tables.",
+        "Extensively worked on various new features of HTML5 and CSS3.",
+        "Performed UNIT testing using Jasmine, Mocha and Chai.",
+        "Used JIRA for defect tracking and managing user stories.",
+        "Experience with Grunt to perform minification, compilation and linting and NPM to maintain package dependencies."
+      ]
+    },
+    {
+      "name": "NYC Workers Compensation Board",
+      "position": "UI Developer",
+      "startDate": "June 2014",
+      "endDate": "March 2016",
+      "summary": "NYS Workers’ compensation is an insurance company that provides insurance/cash benefits and/or medical care for workers who are injured or become ill as a direct result of their job. This project deals with Insurance online. This tool takes care of the policy online using tracking the details of the customer and the company.",
+      "highlights": [
+        "Developed the front-end by doing hands-on coding using semantic markup, XHTML, HTML, CSS, JavaScript (and other front-end technologies as required by the program) with a focus on usability",
+        "Implemented client-side form validations using JavaScript.",
+        "Involved in Developing GUI and writing the business logic for the server-side.",
+        "Developed screen functionality using HTML, CSS, and JavaScript.",
+        "Used GUICE (pronounced as juice), JavaScript, and XMI for client-side implementation.",
+        "Written code for the cross-browser functionality and improvement of website performance using best practices in JavaScript, HTML.",
+        "Worked with CSS Background, CSS Layouts, CSS positioning, CSS text, CSS border, CSS margin, CSS padding, CSS table, Pseudo classes, Pseudo elements and CSS behaviours in CSS.",
+        "Developed new form validations according to requirements such as minLength, format Phone.",
+        "Involved in creating cross-browser compatible and standards-compliant CSS-based page layouts.",
+        "Responsible for writing documentation for project progress reports Added routing and developed factories worked on root level variables and functions.",
+        "Involved in writing application level code to interact with APIs, Web Services using AJAX, JSON, and XML.",
+        "Used JSON for data exchange and Rest Services to interact with the spring controller.",
+        "Debugged JavaScript using chrome developers tools and Firebug in Mozilla."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Thiruvalluvar University",
+      "area": "Computer Science"
+      
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Web Technologies",
+      "keywords": ["HTML5,", "CSS", " JavaScript", "jQuery UI", "ReactJS", "JSON", "AJAX", "XML", "MVC", "DOM", "Bootstrap", "Webpack", "Material Design"]
+    },
+    {
+      "name": "Database",
+      "keywords": ["SQL queries and MongoDB,", "SQL Server"]
+    },
+    {
+      "name": "Application Server",
+      "keywords": ["Node.js."]
+    },
+    {
+      "name": "Libraries",
+      "keywords": ["ExpressJS", " Request", "jQueryUI", " ReactJS", " Material-UI,", "Video.js", "Lodash,", "Request", " Async", "Google Fonts","Socket.IO","Mongoose"]
+    },{
+      "name": "Tools and IDEs",
+      "keywords": ["Eclipse IDE", "WebStorm", "Visual Studio", "Notepad++"]
+    },{
+      "name": "Version Control",
+      "keywords": ["GIT", "Gerrit"]
+    },{
+      "name": "Programming Languages",
+      "keywords": ["JavaScript", " ES6/ES7", "C"]
+    },{
+      "name": "Operating System",
+      "keywords": ["Windows", " Linux", "Mac OS X"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Native-speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    }
+  ]
+}

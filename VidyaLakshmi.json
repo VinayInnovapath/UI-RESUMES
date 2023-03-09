@@ -1,0 +1,189 @@
+{
+  "basics": {
+    "name": "VidyaLakshmi",
+    "label": "UI Developer",
+    "image": "",
+    "phone": "(312) 448-7077",
+    "summary": "Having around 8 years of professional experience as Front end and Full Stack Developer using MERN (MongoDB, ExpressJS, ReactJS, NodeJS), MEAN (MongoDB, Express, AngularJS, NodeJS) stack."    
+  },
+  "work": [
+    {
+      "name": "Adobe",
+      "position": "Front End Developer",
+      "startDate": "May 2022 ",
+      "endDate": "",
+      "summary": "In Adobe we were developing a project for Unified Buying platforms. In which firms can buy adobe products on annual terms. They can check the price and add different adobe products which create a Quote. The Quote is converted to order which can be reviewed. They can also check the terms and conditions for those orders once the review is done there will be a digital signature for the confirmation of the order. After that Billing for the adobe products starts on annual terms",
+      "Environment": "ReactJS, Redux, React Native, Jest, Enzyme, JavaScript, Lodash, ExpressJS, NodeJS, MongoDB, Mongoose, Redis, Winston, PM2, Webpack, Babel, Gerrit, Git, Jenkins, Docker, AWS, HTML5, CSS3, SASS.",
+      "highlights": [
+        "Complete exposure with MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack with ES6.",
+        "Created SPA by configuring React-Router. Used BrowserRouter for Web and NativeRouterfor mobile.",
+        "Created reusable components with ReactJS. Worked with props, state, life cycle methods, DOM event handling, forms and Context API.",
+        "Worked with React new features - Fragments, Return Types, Error Boundary, Static Methods, React Suspense/Lazy and React Profiler.",
+        "Worked withReact hooks - useState, useEffect, useRef, useMemo, useContextanduseReducer.",
+        "Used redux-thunkas middleware to handle request and response and to delay dispatch of an action based on conditions.",
+        "Used Redux for statemanagement using Store, Actions and Reducers. Used pure functions to create reducers.",
+        "Worked with JavaScript (ES5/ES6/ES7/ES8) -closures, hoisting, prototypes, blockscoping, rest, spread, destructuring, classes, promises, iterators, generators, async, await, maps and sets.",
+        "Worked with functional programming – pure functions, immutable objects and declarative programming.",
+        "Built out RESTful endpoints and lightweight aggregation layers using Node.js Framework such as Express.js, Body parser, cluster, process, winston, redis, jwt, mongoose, lodash, async etc.",
+        "Used Mongoose Schema/Model to create, query, update, and delete with Express.js controllers.",
+        "Worked with CSS3 preprocessors like SASS - variables, mixins, nesting and import.",
+        "Created POC on React Native and used Jest and Enzyme for testing applications.",
+        "Used ESLint with Webpack and Node.js plugins to do code cleaning.",
+        "Worked in CI/CD process with Git, Gerrit, Jenkins, Docker and AWS."
+      ]
+    },
+    {
+      "name": "American Airlines",
+      "position": "UI Developer",
+      "startDate": "Nov 2020 ",
+      "endDate": "Apr 2022",
+      "summary": "American Airlines is a leading Air transportation company in the United States that provides services all over the world. I was part of global sales ecommerce platform, for the customers to purchase tickets and booking services. The aim of this project was to develop existing software programs & integrate cross browser compatible applications.",
+      "Environment":"React.js, Redux, React-Router, JavaScript, Webpack, Babel, Gerrit, Git, Jenkins, AWS, HTML5, CSS3, Bootstrap, Jest, Enzyme.",
+      "highlights": [
+        "Exposure to ReactJS for building highly interactive user interfaces and Redux for state management with ES6 syntax and JSX templates.",
+        "Created a single page application using ReactJS and used react-router to interact between the pages.",
+        "Created reusable components with React.js. Used JSX with ES6 to define components.",
+        "Worked with the react component life cycle for state management and DOM manipulation.",
+        "Used Redux for state management. Created reducers with pure functions and actions to dispatch events and stores to maintain the state.",
+        "Used Redux middlewares - redux-form, redux-logger, react-redux, redux-thunk, redux-localstorage.",
+        "Used third party react components - react-video, react-select, react-tagsinput, react-datagrid, react-panels, react-calendar",
+        "Worked with Promises, Fetch API and async and await to avoid callback hell and to fetch data from the server.",
+        "Worked with Higher-Order Components (HOC) for reusing component logic.",
+        "Used Bootstrap 3 for mobile-first responsive design and typography and Bootstrap CSS Grid System to create responsive layouts, navigation and tables.",
+        "Experience with Babel, Webpack to perform transpiling, bundling, minification, compilation and linting.",
+        "Created POC using Jest and Enzyme for testing React applications.",
+        "Worked in CI/CD process with Git, Gerrit, Jenkins and AWS."
+      ]
+    },
+    {
+      "name": " Autodesk Inc.",
+      "position": "Full Stack Developer",
+      "startDate": "Mar 2019",
+      "endDate": " Oct 2020 ",
+      "summary": "Autodesk is a leading corporation that makes software for architects, engineers and for 3d animators.  I worked as a UI Developer engineer in Autodesk who is responsible for Admin Tool and Apis to maintain and develop different services which are required for E-commerce Websites. Worked as the tester before new feature setups went live. Offerings, Subscriptions, Promotions, e-Stores, Purchase Orders etc. had to be checked for consistency and correctness. Other duties involved once the story is tested, I automate it which is a part of acceptance criteria of the story to be closed.",
+      "Environment":"HTML5, CSS3, Bootstrap 3, JavaScript, DOM, Ajax, JSON, AngularJS, Angular UI, Restful API, Grunt, Jenkins.",
+      "highlights": [
+        "Used AngularJS as a framework to create a Single Page Application (SPA) which binds data to views and synchronizes data with the server. ",
+        "Used UI-Router module, which is state based for multiple views and encapsulated each with a controller for reusability throughout the application. ",
+        "Used AngularJS dependency injection to inject different Angular Services as well as custom Services, also built several custom Directives to provide reusable components.",
+        "Good with scope isolation, transclude, templating, in creating (elements, attributes, classes) using custom directives.",
+        "Used Promise, specifically $http and $q service, to asynchronously fetch data from backend to speed up frontend view rendering.",
+        "Used Angular JS framework to bind HTML (views) to JavaScript objects (models).",
+        "Implemented various $scope methods $watch (), $digest () and $apply () in order to implement two way data-binding by using AngularJS.",
+        "Used Directives for the DOM manipulations and Filters for formatting decimal places and pagination.",
+        "Used link function to define directive’s API and attached event listeners to DOM elements, watching model properties for change, and updating the DOM.",
+        "Used CSS sprites to decrease the number of HTTP requests and load time of web pages to improve page performance.",
+        "Used Mobile-first responsive grid layout using Bootstrap 3. Extensively used Media Queries, Fluid Layout, Responsive Images and Typography.",
+        "mplemented CSS3 features like CSS3 Media Queries, Pseudo Classes, multi-column layout, gradients and web fonts.",
+        "Used Grunt as a build tool for post development activities like minification, concatenation etc.",
+        "Understanding the concepts of continuous integration using tool Jenkins and fixing the bugs quickly encountered in continuous builds."
+        
+      ]
+    },
+    {
+      "name": "Cigna Health Insurance",
+      "position": "Sr. UI Developer",
+      "startDate": "Mar 2017",
+      "endDate": "Feb 2019",
+      "summary": "Cigna is an American worldwide health services organization. It's one of the largest health service companies and healthcare insurance providers in the US market. In this project, we are focused to develop a system which keeps a track on the people who need health services like supplemental insurance plans, health plans which provide comprehensive medical and drug coverage, in turn, utilizes a designated network of doctors and hospitals who work together to provide the best care in the most cost-effective manner.",
+      "Environment":"HTML5, CSS3, jQuery, jQuery UI, Javascript, AJAX, IIFE, JSON.",
+      "highlights": [
+        "Developed websites using HTML, CSS, JavaScript, jQuery, JSON and AJAX.",
+        "Used jQuery UI controls as Accordion, Tabs, Dialog and used jQuery mobile data attributes to create mobile friendly pages.",
+        "Extensive experience with jQuery, jQuery UI and jQuery Mobile – CSS3 Selectors, Sizzle API, DOM traversal, manipulation and event handling.",
+        "Worked on various mobile frameworks like jQuery mobil",
+        "Performed client side validations over the forms using Javascript.",
+        "Used JQuery UI widgets like auto-complete, date-picker to enhance the usability, functionality and overall experience.",
+        "Used AJAX to refresh only a certain section of the page and reduce the load on the web server.",
+        "Used JavaScript DOM manipulation and JavaScript events to generate the data result in UI",
+        "Used JSON objects effectively for efficient client side coding.",
+        "Used http requests using $.Ajax and used promises.",
+        "Used Cascading Style Sheets in order to separate presentation from the structure and also defined text alignment, borders, positioning and many other typographic characteristics.",
+        "Experience on working with CSS Background, Layouts, positioning, text, border, margin, padding, table, Pseudo classes and Pseudo elements."
+      ]
+    },
+    {
+      "name": "Walgreens, Deerfield Township",
+      "position": "UI Developer",
+      "startDate": "Aug 2015",
+      "endDate": "Feb 2017",
+      "summary": "Walgreens is one of the leading web-based e-commerce business systems. The project was a web-based application which allows the customers to register their accounts and schedule their appointment at Walgreens pharmacy. The Web app also allows customers to add orders to Walgreens cart. Additionally, I worked on Gift card, Track Order and Profile management web services. Walgreens’ mobile app testing involved testing refill prescriptions, managing prescriptions and order prints & photo cards.",
+      "Environment":" HTML, CSS, DOM, DHTML, XHTML, CSS, JavaScript, jQuery, jQuery UI, AJAX, JSON, Restful Api.",
+      "highlights": [
+        "Involved in creating dynamic web site design and programming using HTML, CSS, Javascript and jQuery.",
+        "Implemented jqGrid with JSP for creating list and detail popups on all admin pages.",
+        "Extensively used jQuery UI components inside list and detail pages - Accordion, Autocomplete, Dialog, Menu, Tabs, and Tooltip.",
+        "Extensively worked with jQuery animations and created custom plugins using jQuery.",
+        "Implemented printable chart report using HTML, CSS and jQuery.",
+        "Developed and maintained the layouts using CSS for all intranet applications compliant with W3C.",
+        "Extensively worked with jQuery animations and created custom plugins using jQuery.",
+        "Implemented client-side form validations using JavaScript and JSP.",
+        "Utilized JavaScript and JQuery to improve overall design and to update a portion of a GUI page thus reducing bandwidth usage and load time in web pages to get user input and requests. ",
+        "Created HTML pages from mock-ups and visual wireframes, worked closely with the design / product team. ",
+        "Developed JavaScript, HTML and CSS web pages and wrote SQL database Queries. ",
+        "Integrate each View with the backend using AJAX pattern and jQuery.",
+        "Tested cross browser compatibility to ensure the look and feel of the UI designs worked the same in various versions of different browsers (IE, Firefox, Google chrome, Safari and Opera)."
+      ]
+    }
+  ],  
+  "education": [
+    {
+      "institution": "  Hindustan College of Arts and Science",
+      "area": "Computer Science"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      
+      "keywords": ["HTML4/HTML5,", "CSS2/CSS3", "SASS", "XML", "Bootstrap", " JavaScript (ES5/ES6/ES7/ES8)", "jQuery", "NodeJS", "ReactJS", "React Native", "Ajax", "ExpressJS", "JSON", "AngularJS", "MongoDB"]
+    },
+    {
+      "name": "Programming Languages",
+      
+      "keywords": ["JavaScript", "Python"]
+    },
+     {
+      "name": "Database",
+      
+      "keywords": ["SQL queries", "MongoDB", "Postgres"]
+    }, {
+      "name": "Libraries",
+      
+      "keywords": ["ExpressJS", " Request", "jQueryUI", "ReactJS", "Material-UI", "Video.js", "Lodash", "Async", "Google Fonts", "Socket.IO", "Mongoose", "Google Maps"]
+    }, {
+      "name": "Version Control",
+      
+      "keywords": ["Git"]
+    },
+    {
+      "name": "Tools and IDEs",
+      
+      "keywords": ["WebStorm", "Visual Studio Code", "Notepad++"]
+    },
+    {
+      "name": "Application Server",
+      
+      "keywords": ["NodeJS"]
+    },
+    {
+      "name": "Operating System",
+      
+      "keywords": ["Windows", "Linux", "Mac OS"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Malyalam",
+      "fluency": "Native-speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    }
+  ]
+}
